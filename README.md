@@ -15,7 +15,13 @@ In this project, there are two deeplearning models to train.
 For the first model, the data comes from [https://open-meteo.com/](https://open-meteo.com/).\
 For the second model, the data comes from [https://www.kaggle.com/datasets/ananthr1/weather](https://www.kaggle.com/datasets/ananthr1/weather)
 
-The API call is already implemented, for the second model, please download the data from the link and extract it in the file "./images".
+The API call is already implemented.\
+For the second model:
+1. Download the data from the link
+2. Extract it in the file "./images"
+3. Rename file "0" by "cloudy"
+4. Rename file "1" by "rain"
+5. Rename file "2" by "shine"
 
 
 ### ---------------------RIGHT---------------------
